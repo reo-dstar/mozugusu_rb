@@ -34,7 +34,8 @@ def get_rand_element(array)
 	choices[rand(choices.length)]
 end
 
-def update(text, hash={:tw_target_name=>'ファルネーゼ'})
+def update(tweet, hash={:tw_target_name=>'ファルネーゼ'})
+	text = get_rand_element(tweet)['text']
 	if text.class == String
 		p text
 	elsif text.class == Array
@@ -50,5 +51,5 @@ def update(text, hash={:tw_target_name=>'ファルネーゼ'})
 		p str
 	end
 end
-text = get_rand_element(tweet)['text']
-update(text)
+
+update(tweet)
