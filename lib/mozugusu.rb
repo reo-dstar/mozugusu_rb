@@ -20,4 +20,6 @@ end
 )
 
 
-@client.update('test2')
+tweet = YAML.load_file(File.expand_path('../', __FILE__)+'/tweet.yaml')
+
+pp tweet
