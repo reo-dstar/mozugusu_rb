@@ -1,69 +1,193 @@
+#通常ツイート
+- text: 目を逸らしてはなりません
+- text: |-
+   臆してはなりません！！！
+   すべてを神の御手に預けるのです！！
+- 
+  text: |-
+    神．．
+    ただ神のみのために
+    我々は行うのです
+- 
+  text: |-
+    神に問うてはなりません
+    人として心と肉に血を流そうとも
+    ただひたむきに神のために在り続ける
+    それが信仰というものです
+- 
+  text: |-
+    信仰とはすべてを要求するもの
+    あえてこの試練にこの身を捧げましょう
+
+    悔い改めよ亡者ども！！！
+- 
+  text: |-
+    信仰とは
+    死ぬことと見つけたり！！！
+- text: 神の勝利を民衆に示すことこそ我が使命！！
+- 
+  text: |-
+    神に弓引く愚か者よ！！
+    その罪
+    その血を以て贖って戴きましょう！！！
+- 
+  text: |-
+    私としたことが・・・
+    少々取り乱したようですね
+- text: ぬありませんッッ！！！
+- text: 二児達！邪教徒は「のこぎり引きの刑」です！
+- 
+  text: |-
+    うぬれええ！！
+    貴様ら神を畏れぬか！？
+- 
+  text: |-
+    あなたには聞こえぬのですか！？
+    この祈りの声が！！
+- text: 祈りこそは信仰そのもの！！
+- 
+  text: |-
+    祈り そしてすべてを神に委ねる
+    それこそが信仰の本質！！
+- text: 祈りを知らぬ傲慢なる者よ！！悔い改めよ！！
+- 
+  text: |-
+    ガコッ! ガガン! バッ．． ガッ! ガキッ！ ドゴン！！ バッ．．
+
+    頂礼なう
+- 
+  text: |-
+    神とは慈愛のみこの地上に降り注ぐものではありません
+    厳格な裁定者でもあるのです
+- 
+  text: |-
+    選ばれし運命の子らよ
+
+    誇りと
+    信仰を持ちなさい
+- 
+  text: |-
+    人々はお前達を悪魔だ怪物だと呼ぶかも知れない
+
+    だがそれは間違いだ
 #返信用
-- text: - これは
-        - &user :tw_user_name
-        - l+
-             殿
+-
+  text: 
+    - これは
+    - :tw_target_name
+    - |-
+         殿
 
-             何か迷っておいでですか？ 私でよければ懺悔なさいますか？
-　usableReply: true
-- text: - これは
-        - *user
-        - l+
-             殿
+         何か迷っておいでですか？ 私でよければ懺悔なさいますか？
+  usableReply: true
+- 
+  text: 
+    - これは
+    - :tw_target_name
+    - |-
+         殿
 
-             さあこちらへ 信者としての務めが待っています
-　usableReply: true
-- text: - これは
-        - *user
-        - l+
-        	 殿
+         さあこちらへ 信者としての務めが待っています
+  usableReply: true
+- 
+  text:
+    - これは
+    - :tw_target_name
+    - |-
+        殿
 
-             私になにか御用ですかな？
-　usableReply: true
-- text: その信仰に一点の曇り無くば 神は必ず魔の力を撃ち破るべく奇跡を御示しになります
-　usableReply: true
-- text: 勇気あるあなたであるからこそ！！ 神の与えしこの試練ぜひとも乗り越えていただきたあい！！！
-　usableReply: true
-- text: 神があなたとともにあらんことを
-　usableReply: true
-- text: 今こそ我らの信仰が試される時です
-　usableReply: true
+        私になにか御用ですかな？
+  usableReply: true
+- 
+  text: その信仰に一点の曇り無くば 神は必ず魔の力を撃ち破るべく奇跡を御示しになります
+  usableReply: true
+- 
+  text: 勇気あるあなたであるからこそ！！ 神の与えしこの試練ぜひとも乗り越えていただきたあい！！！
+  usableReply: true
+- 
+  text: 神があなたとともにあらんことを
+  usableReply: true
+- 
+  text: 今こそ我らの信仰が試される時です
+  usableReply: true
 #使徒形態
-- text: ゴッドプレッシャー！！
-　usableReply: true
+- 
+  text: ゴッドプレッシャー！！
+  usableReply: true
   apostle: true
-- text: ゴッドブレス！！
-　usableReply: true
+- 
+  text: ゴッドブレス！！
+  usableReply: true
   apostle: true
-- text: 神（ゴッド）！！！千手砲（せんじゅカノン）！！！
-　usableReply: true
+- 
+  text: 神（ゴッド）！！！千手砲（せんじゅカノン）！！！
+  usableReply: true
   apostle: true
-- text: ゴオォッド ブレェェス
-　usableReply: true
+- 
+  text: ゴオォッド ブレェェス
+  usableReply: true
   apostle: true
-- text: 剛力招来！！！超力招来！！！
-　usableReply: true
+- 
+  text: 剛力招来！！！超力招来！！！
+  usableReply: true
   apostle: true
-#接触用
-- text: l+
-			あなたの勇気に免じて
-			神は慈悲を御示し下さいます
+- 
+  text: |-
+          神を恐れぬ愚か者よ
+          天罰覿面！！
+  usableReply: true
+  apostle: true
+- 
+  text: |-
+          天に代わりてこの私が！！
+          あなたにバチを当てましょう！！！
+  usableReply: true
+  apostle: true
+- 
+  text: |-
+          おお・・・神よ！
+          我
+          今より
+          御許に参ります！
+  sleep: true
+  apostle: true
+- 
+  text: |-
+          我
+          最後の命の炎で！！
+          邪悪を焼き尽くさん！！
+  apostle: true
+- 
+  text: |-
+          この教典が盾となりて不浄の刃を退けたのです！！
+          教典をこの身に戴く以上！
+          忌むべき力を用いて我が肉体を傷つけることは適いません！！
+  apostle: true
+# #接触用
+- 
+  text: |-
+          あなたの勇気に免じて
+          神は慈悲を御示し下さいます
   contact: true
-- text: このモズグスを呼ばれましたかな？
+- 
+  text: このモズグスを呼ばれましたかな？
   contact: true
-- text: l+
-			神よ
-			この出会いと運命に感謝いたします
+- 
+  text: |-
+          神よ
+          この出会いと運命に感謝いたします
   contact: true
-- text: l+
-			私がここに居合わせたことも
+- 
+  text: |-
+          私がここに居合わせたことも
 
-			神のお導きなのでしょう
+          神のお導きなのでしょう
   contact: true
-- text: l+
-			あなたの愛と勇気は称えられるべきもの！！
+- 
+  text: |-
+          あなたの愛と勇気は称えられるべきもの！！
 
 
-			だが罪は罪！！！
+          だが罪は罪！！！
   contact: true
 
