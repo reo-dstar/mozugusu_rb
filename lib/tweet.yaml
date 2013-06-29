@@ -1,9 +1,69 @@
+#返信用
+- text: - これは
+        - &user :tw_user_name
+        - l+
+             殿
 
-- - これは
-  - &user :tw_user_name
-  - l+
-       殿
+             何か迷っておいでですか？ 私でよければ懺悔なさいますか？
+　usableReply: true
+- text: - これは
+        - *user
+        - l+
+             殿
 
-       何か迷っておいでですか？ 私でよければ懺悔なさいますか？
+             さあこちらへ 信者としての務めが待っています
+　usableReply: true
+- text: - これは
+        - *user
+        - l+
+        	 殿
 
+             私になにか御用ですかな？
+　usableReply: true
+- text: その信仰に一点の曇り無くば 神は必ず魔の力を撃ち破るべく奇跡を御示しになります
+　usableReply: true
+- text: 勇気あるあなたであるからこそ！！ 神の与えしこの試練ぜひとも乗り越えていただきたあい！！！
+　usableReply: true
+- text: 神があなたとともにあらんことを
+　usableReply: true
+- text: 今こそ我らの信仰が試される時です
+　usableReply: true
+#使徒形態
+- text: ゴッドプレッシャー！！
+　usableReply: true
+  apostle: true
+- text: ゴッドブレス！！
+　usableReply: true
+  apostle: true
+- text: 神（ゴッド）！！！千手砲（せんじゅカノン）！！！
+　usableReply: true
+  apostle: true
+- text: ゴオォッド ブレェェス
+　usableReply: true
+  apostle: true
+- text: 剛力招来！！！超力招来！！！
+　usableReply: true
+  apostle: true
+#接触用
+- text: l+
+			あなたの勇気に免じて
+			神は慈悲を御示し下さいます
+  contact: true
+- text: このモズグスを呼ばれましたかな？
+  contact: true
+- text: l+
+			神よ
+			この出会いと運命に感謝いたします
+  contact: true
+- text: l+
+			私がここに居合わせたことも
+
+			神のお導きなのでしょう
+  contact: true
+- text: l+
+			あなたの愛と勇気は称えられるべきもの！！
+
+			
+			だが罪は罪！！！
+  contact: true
 
