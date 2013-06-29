@@ -4,15 +4,4 @@
 .ruby-version
 /.bundle
 /vendor
-mk
-/src/log
-/src/GPATH
-/src/GRTAGS
-/src/GTAGS
-/src/eeed
-/src/eeed.conf
-*.a
-*.d
-*.o
-*.so
-*.so.*
+token.yaml
